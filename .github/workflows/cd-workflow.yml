@@ -1,7 +1,5 @@
 # This file wont do us much good in this location, make sure you change the path as directed to continue!
 
-FROM nginx:1.17
-COPY . /usr/share/nginx/html
 
 name: Docker CD
 
